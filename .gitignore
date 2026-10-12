@@ -1,0 +1,15 @@
+# Data files
+data/
+*.parquet
+*.csv
+
+# Python Virtual Environment
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
